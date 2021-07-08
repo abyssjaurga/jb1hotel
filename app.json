@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Animated Login Screen",
+    "slug": "AnimatedLoginScreen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./scr/assets/favicon.png"
+    },
+    "description": "A beautiful animated react native login screen",
+    "githubUrl": "https://github.com/Barralex/AnimatedLoginScreen"
+  }
+}
